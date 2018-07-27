@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>习题 on 材料热力学</title>
+    <link>http://localhost:1313/tags/%E4%B9%A0%E9%A2%98/</link>
+    <description>Recent content in 习题 on 材料热力学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>hanpeide@126.com (Peide Han)</managingEditor>
+    <webMaster>hanpeide@126.com (Peide Han)</webMaster>
+    <copyright>(c) 2018 Peide Han.</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E4%B9%A0%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>表面热处理</title>
+      <link>http://localhost:1313/recitation/surface/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0800</pubDate>
+      <author>hanpeide@126.com (Peide Han)</author>
+      <guid>http://localhost:1313/recitation/surface/</guid>
+      <description>习题课</description>
+    </item>
+    
+  </channel>
+</rss>
