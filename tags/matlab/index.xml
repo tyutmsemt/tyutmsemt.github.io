@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matlab on 材料热力学</title>
-    <link>http://localhost:1313/tags/matlab/</link>
+    <link>https://tyutmsemt.github.io/tags/matlab/</link>
     <description>Recent content in Matlab on 材料热力学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -11,15 +11,15 @@
     <copyright>(c) 2018 Peide Han.</copyright>
     <lastBuildDate>Thu, 05 Feb 2015 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tyutmsemt.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tools for Axis Label Alignment in MATLAB</title>
-      <link>http://localhost:1313/resource/matlab-axis-align/</link>
+      <link>https://tyutmsemt.github.io/resource/matlab-axis-align/</link>
       <pubDate>Thu, 05 Feb 2015 00:00:00 +0800</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
-      <guid>http://localhost:1313/resource/matlab-axis-align/</guid>
+      <guid>https://tyutmsemt.github.io/resource/matlab-axis-align/</guid>
       <description>Checkout the code on File Exchange or Github
 This is a simple MATLAB function for axis label alignment. If you have ever struggled with the label alignment issue in MATLAB&amp;rsquo;s 3-D plots &amp;mdash; by default axis labels are placed horizontally no matter how you rotate the plot &amp;mdash; here is a simple fix.
 It still works when Projection mode is Perspective or when DataAspectRatio is not [1 1 1].</description>

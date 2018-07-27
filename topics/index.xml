@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on 材料热力学</title>
-    <link>http://localhost:1313/topics/</link>
+    <link>https://tyutmsemt.github.io/topics/</link>
     <description>Recent content in Topics on 材料热力学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,7 +10,7 @@
     <webMaster>hanpeide@126.com (Peide Han)</webMaster>
     <copyright>(c) 2018 Peide Han.</copyright>
     
-	<atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tyutmsemt.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

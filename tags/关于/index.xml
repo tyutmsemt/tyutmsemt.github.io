@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于 on 材料热力学</title>
-    <link>http://localhost:1313/tags/%E5%85%B3%E4%BA%8E/</link>
+    <link>https://tyutmsemt.github.io/tags/%E5%85%B3%E4%BA%8E/</link>
     <description>Recent content in 关于 on 材料热力学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,24 +10,24 @@
     <webMaster>hanpeide@126.com (Peide Han)</webMaster>
     <copyright>(c) 2018 Peide Han.</copyright>
     
-	<atom:link href="http://localhost:1313/tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tyutmsemt.github.io/tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/</link>
+      <link>https://tyutmsemt.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
-      <guid>http://localhost:1313/</guid>
+      <guid>https://tyutmsemt.github.io/</guid>
       <description>欢迎新同学 太原理工大学材料科学与工程学院材料热力学课程主页</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/instructor/</link>
+      <link>https://tyutmsemt.github.io/instructor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
-      <guid>http://localhost:1313/instructor/</guid>
+      <guid>https://tyutmsemt.github.io/instructor/</guid>
       <description>教师简介 韩培德 教授，研究领域为化学；金属学及金属工艺，材料科学。[百度百科]</description>
     </item>
     
