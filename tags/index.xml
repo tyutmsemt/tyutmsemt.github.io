@@ -9,7 +9,7 @@
     <managingEditor>hanpeide@126.com (Peide Han)</managingEditor>
     <webMaster>hanpeide@126.com (Peide Han)</webMaster>
     <copyright>(c) 2018 Peide Han.</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://tyutmsemt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>Document</title>
       <link>https://tyutmsemt.github.io/tags/document/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0800</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
       <guid>https://tyutmsemt.github.io/tags/document/</guid>
       <description></description>
@@ -35,7 +35,7 @@
     <item>
       <title>习题</title>
       <link>https://tyutmsemt.github.io/tags/%E4%B9%A0%E9%A2%98/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
       <guid>https://tyutmsemt.github.io/tags/%E4%B9%A0%E9%A2%98/</guid>
       <description></description>
@@ -51,6 +51,15 @@
     </item>
     
     <item>
+      <title>动画</title>
+      <link>https://tyutmsemt.github.io/tags/%E5%8A%A8%E7%94%BB/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0800</pubDate>
+      <author>hanpeide@126.com (Peide Han)</author>
+      <guid>https://tyutmsemt.github.io/tags/%E5%8A%A8%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>工具</title>
       <link>https://tyutmsemt.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Thu, 05 Feb 2015 00:00:00 +0800</pubDate>
@@ -60,20 +69,29 @@
     </item>
     
     <item>
+      <title>演示</title>
+      <link>https://tyutmsemt.github.io/tags/%E6%BC%94%E7%A4%BA/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0800</pubDate>
+      <author>hanpeide@126.com (Peide Han)</author>
+      <guid>https://tyutmsemt.github.io/tags/%E6%BC%94%E7%A4%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>相图</title>
+      <link>https://tyutmsemt.github.io/tags/%E7%9B%B8%E5%9B%BE/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0800</pubDate>
+      <author>hanpeide@126.com (Peide Han)</author>
+      <guid>https://tyutmsemt.github.io/tags/%E7%9B%B8%E5%9B%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>课件</title>
       <link>https://tyutmsemt.github.io/tags/%E8%AF%BE%E4%BB%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
       <guid>https://tyutmsemt.github.io/tags/%E8%AF%BE%E4%BB%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>课程</title>
-      <link>https://tyutmsemt.github.io/tags/%E8%AF%BE%E7%A8%8B/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0800</pubDate>
-      <author>hanpeide@126.com (Peide Han)</author>
-      <guid>https://tyutmsemt.github.io/tags/%E8%AF%BE%E7%A8%8B/</guid>
       <description></description>
     </item>
     

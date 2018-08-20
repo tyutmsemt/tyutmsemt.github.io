@@ -9,18 +9,17 @@
     <managingEditor>hanpeide@126.com (Peide Han)</managingEditor>
     <webMaster>hanpeide@126.com (Peide Han)</webMaster>
     <copyright>(c) 2018 Peide Han.</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://tyutmsemt.github.io/tags/%E4%B9%A0%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>表面热处理</title>
-      <link>https://tyutmsemt.github.io/recitation/surface/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0800</pubDate>
+      <title></title>
+      <link>https://tyutmsemt.github.io/recitation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
-      <guid>https://tyutmsemt.github.io/recitation/surface/</guid>
-      <description>习题课</description>
+      <guid>https://tyutmsemt.github.io/recitation/</guid>
+      <description> 习题  习题1 习题2 习题3   </description>
     </item>
     
   </channel>
