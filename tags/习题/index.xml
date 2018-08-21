@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>习题 on 材料热力学</title>
+    <title>习题 on 材料热力学及应用</title>
     <link>https://tyutmsemt.github.io/tags/%E4%B9%A0%E9%A2%98/</link>
-    <description>Recent content in 习题 on 材料热力学</description>
+    <description>Recent content in 习题 on 材料热力学及应用</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>hanpeide@126.com (Peide Han)</managingEditor>
@@ -19,7 +19,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hanpeide@126.com (Peide Han)</author>
       <guid>https://tyutmsemt.github.io/recitation/</guid>
-      <description> 习题  习题1 习题2 习题3   </description>
+      <description> 习题  习题1 习题2 习题3 测试题1 测试题2  </description>
     </item>
     
   </channel>
